@@ -1,0 +1,237 @@
+﻿Java版1.12.2,Java版1.13
+橡木木板（Oak Wood Planks）,橡木木板（Oak Planks）
+云杉木板（Spruce Wood Planks）,云杉木板（Spruce Planks）
+白桦木板（Birch Wood Planks）,白桦木板（Birch Planks）
+丛林木板（Jungle Wood Planks）,丛林木板（Jungle Planks）
+金合欢木板（Acacia Wood Planks）,金合欢木板（Acacia Planks）
+深色橡木木板（Dark Oak Wood Planks）,深色橡木木板（Dark Oak Planks）
+橡木,橡木原木
+云杉木,云杉原木
+白桦木,白桦原木
+丛林木,丛林原木
+金合欢木,金合欢原木
+深色橡木,深色橡木原木
+平滑砂岩,切制砂岩
+活塞,活塞头
+tile.null.name,移动的活塞
+蘑菇,棕色蘑菇
+蘑菇,红色蘑菇
+橡木台阶（Oak Wood Slab）,橡木台阶（Oak Slab）
+云杉木台阶（Spruce Wood Slab）,云杉木台阶（Spruce Slab）
+白桦木台阶（Birch Wood Slab）,白桦木台阶（Birch Slab）
+丛林木台阶（Jungle Wood Slab）,丛林木台阶（Jungle Slab）
+金合欢木台阶（Acacia Wood Slab）,金合欢木台阶（Acacia Slab）
+深色橡木台阶（Dark Oak Wood Slab）,深色橡木台阶（Dark Oak Slab）
+木台阶,石化橡木台阶
+砖块台阶（Bricks Slab）,砖台阶（Brick Slab）
+石砖台阶（Stone Bricks Slab）,石砖台阶（Stone Brick Slab）
+石台阶,平滑石头
+石台阶,平滑砂岩
+石台阶,平滑石英块
+石台阶,平滑红砂岩
+苔石（Moss Stone）,苔石（Mossy Cobblestone）
+刷怪笼（Monster Spawner）,刷怪笼（Spawner）
+传送门,下界传送门
+火把（墙上）,墙上的火把
+橡木楼梯（Oak Wood Stairs）,橡木楼梯（Oak Stairs）
+木质压力板,橡木压力板
+红石火把（墙上）,墙上的红石火把
+按钮,石质按钮
+南瓜,雕刻南瓜
+木质活板门,橡木活板门
+石头怪物蛋,虫蚀石头
+圆石怪物蛋,虫蚀圆石
+石砖怪物蛋,虫蚀石砖
+苔石砖怪物蛋,虫蚀苔石砖
+裂纹石砖怪物蛋,虫蚀裂纹石砖
+雕纹石砖怪物蛋,虫蚀雕纹石砖
+蘑菇,棕色蘑菇方块
+蘑菇,红色蘑菇方块
+下界砖块（Nether Brick）,下界砖块（Nether Bricks）
+附魔台（Enchantment Table）,附魔台（Enchanting Table）
+末地传送门,末地传送门框架
+tile.null.name,末地传送门方块
+tile.null.name,末地折跃门方块
+云杉木楼梯（Spruce Wood Stairs),云杉木楼梯（Spruce Stairs）
+白桦木楼梯（Birch Wood Stairs）,白桦木楼梯（Birch Stairs）
+丛林木楼梯（Jungle Wood Stairs）,丛林木楼梯（Jungle Stairs）
+按钮,橡木按钮
+轻微损坏的铁砧,开裂的铁砧
+严重损坏的铁砧,损坏的铁砧
+轻质测重压力板（Weighted Pressure Plate (Light)）,轻质测重压力板（Light Weighted Pressure Plate）
+重质测重压力板（Weighted Pressure Plate (Heavy)）,重质测重压力板（Heavy Weighted Pressure Plate）
+阳光传感器（Daylight Sensor）,阳光探测器（Daylight Detector）
+石英柱（Pillar Quartz Block）,石英柱（Quartz Pillar）
+金合欢木楼梯（Acacia Wood Stairs）,金合欢木楼梯（Acacia Stairs）
+深色橡木楼梯（Dark Oak Wood Stairs）,深色橡木楼梯（Dark Oak Stairs）
+双草丛,高草丛
+平滑红砂岩,切制红砂岩
+红色下界砖块（Red Nether Brick）,红色下界砖块（Red Nether Bricks）
+小麦种子（Seeds）,小麦种子（Wheat Seeds）
+小麦（Crops）,小麦（Wheat Crops）
+锁链头盔（Chain Helmet）,锁链头盔（Chainmail Helmet）
+锁链胸甲（Chain Chestplate）,锁链胸甲（Chainmail Chestplate）
+锁链护腿（Chain Leggings）,锁链护腿（Chainmail Leggings）
+锁链靴子（Chain Boots）,锁链靴子（Chainmail Boots）
+金苹果,附魔金苹果
+告示牌（墙上）,墙上的告示牌
+红石,红石粉
+甘蔗（Sugar Cane）,甘蔗（Suger Canes）
+生鱼,生鳕鱼（Raw Cod）
+小丑鱼,热带鱼
+熟鱼,熟鳕鱼（Cooked Cod）
+西瓜,西瓜片
+南瓜茎,附着的南瓜茎
+南瓜茎 [注 1],西瓜茎
+南瓜茎 [注 1],附着的西瓜茎
+闪烁的西瓜片,闪烁的西瓜片
+生成蝙蝠,蝙蝠刷怪蛋
+生成烈焰人,烈焰人刷怪蛋
+生成洞穴蜘蛛,洞穴蜘蛛刷怪蛋
+生成鸡,鸡刷怪蛋
+生成牛,牛刷怪蛋
+生成苦力怕,苦力怕刷怪蛋
+生成驴,驴刷怪蛋
+生成远古守卫者,远古守卫者刷怪蛋
+生成末影人,末影人刷怪蛋
+生成末影螨,末影螨刷怪蛋
+生成唤魔者,唤魔者刷怪蛋
+生成恶魂,恶魂刷怪蛋
+生成守卫者,守卫者刷怪蛋
+生成马,马刷怪蛋
+生成尸壳,尸壳刷怪蛋
+生成羊驼,羊驼刷怪蛋
+生成岩浆怪,岩浆怪刷怪蛋
+生成哞菇,哞菇刷怪蛋
+生成骡,骡刷怪蛋
+生成豹猫,豹猫刷怪蛋
+生成鹦鹉,鹦鹉刷怪蛋
+生成猪,猪刷怪蛋
+生成北极熊,北极熊刷怪蛋
+生成兔子,兔子刷怪蛋
+生成绵羊,绵羊刷怪蛋
+生成潜影贝,潜影贝刷怪蛋
+生成蠹虫,蠹虫刷怪蛋
+生成骷髅,骷髅刷怪蛋
+生成骷髅马,骷髅马刷怪蛋
+生成史莱姆,史莱姆刷怪蛋
+生成蜘蛛,蜘蛛刷怪蛋
+生成鱿鱼,鱿鱼刷怪蛋
+生成流浪者,流浪者刷怪蛋
+生成恼鬼,恼鬼刷怪蛋
+生成村民,村民刷怪蛋
+生成卫道士,卫道士刷怪蛋
+生成女巫,女巫刷怪蛋
+生成凋灵骷髅,凋灵骷髅刷怪蛋
+生成狼,狼刷怪蛋
+生成僵尸,僵尸刷怪蛋
+生成僵尸马,僵尸马刷怪蛋
+生成僵尸猪人,僵尸猪人刷怪蛋
+生成僵尸村民,僵尸村民刷怪蛋
+花盆,虞美人盆栽
+花盆,蒲公英盆栽
+花盆,橡树树苗盆栽
+花盆,云杉树苗盆栽
+花盆,白桦树苗盆栽
+花盆,丛林树苗盆栽
+花盆,红色蘑菇盆栽
+花盆,棕色蘑菇盆栽
+花盆,仙人掌盆栽
+花盆,枯萎的灌木盆栽
+花盆,蕨盆栽
+花盆,金合欢树苗盆栽
+花盆,深色橡树树苗盆栽
+花盆,兰花盆栽
+花盆,绒球葱盆栽
+花盆,蓝花美耳草盆栽
+花盆,红色郁金香盆栽
+花盆,橙色郁金香盆栽
+花盆,白色郁金香盆栽
+花盆,粉红色郁金香盆栽
+花盆,滨菊盆栽
+头颅（物品）,玩家头颅
+tile.skull.skeleton.name （方块，在地上）,骷髅头颅
+tile.skull.skeleton.name （方块，在墙上）,墙上的骷髅头颅
+tile.skull.skeleton.name （方块，在地上）,凋灵骷髅头颅
+tile.skull.skeleton.name （方块，在墙上）,墙上的凋灵骷髅头颅
+tile.skull.skeleton.name （方块，在地上）,僵尸的头
+tile.skull.skeleton.name （方块，在墙上）,墙上的僵尸的头
+tile.skull.skeleton.name （方块，在地上）,玩家头颅
+tile.skull.skeleton.name （方块，在墙上）,墙上的玩家头颅
+tile.skull.skeleton.name （方块，在地上）,苦力怕的头
+tile.skull.skeleton.name （方块，在墙上）,墙上的苦力怕的头
+tile.skull.skeleton.name （方块，在地上）,龙首
+tile.skull.skeleton.name （方块，在墙上）,墙上的龙首
+金马铠（Gold Horse Armor）,金马铠（Golden Horse Armor）
+白色旗帜 （方块，在地上）,橙色旗帜
+白色旗帜 （方块，在地上）,品红色旗帜
+白色旗帜 （方块，在地上）,淡蓝色旗帜
+白色旗帜 （方块，在地上）,黄色旗帜
+白色旗帜 （方块，在地上）,黄绿色旗帜
+白色旗帜 （方块，在地上）,粉红色旗帜
+白色旗帜 （方块，在地上）,灰色旗帜
+白色旗帜 （方块，在地上）,淡灰色旗帜
+白色旗帜 （方块，在地上）,青色旗帜
+白色旗帜 （方块，在地上）,紫色旗帜
+白色旗帜 （方块，在地上）,蓝色旗帜
+白色旗帜 （方块，在地上）,棕色旗帜
+白色旗帜 （方块，在地上）,绿色旗帜
+白色旗帜 （方块，在地上）,红色旗帜
+白色旗帜 （方块，在地上）,白色旗帜
+白色旗帜 （方块，在墙上）,白色旗帜[注 2]
+白色旗帜 （方块，在墙上）,橙色旗帜[注 2]
+白色旗帜 （方块，在墙上）,品红色旗帜[注 2]
+白色旗帜 （方块，在墙上）,淡蓝色旗帜[注 2]
+白色旗帜 （方块，在墙上）,黄色旗帜[注 2]
+白色旗帜 （方块，在墙上）,黄绿色旗帜[注 2]
+白色旗帜 （方块，在墙上）,粉红色旗帜[注 2]
+白色旗帜 （方块，在墙上）,灰色旗帜[注 2]
+白色旗帜 （方块，在墙上）,淡灰色旗帜[注 2]
+白色旗帜 （方块，在墙上）,青色旗帜[注 2]
+白色旗帜 （方块，在墙上）,紫色旗帜[注 2]
+白色旗帜 （方块，在墙上）,蓝色旗帜[注 2]
+白色旗帜 （方块，在墙上）,棕色旗帜[注 2]
+白色旗帜 （方块，在墙上）,绿色旗帜[注 2]
+白色旗帜 （方块，在墙上）,红色旗帜[注 2]
+白色旗帜 （方块，在墙上）,黑色旗帜[注 2]
+沼泽（Swampland）,沼泽（Swamp）
+沙漠丘陵（DesertHills）,沙漠丘陵（Desert Hills）
+森林山丘,繁茂的丘陵
+冻洋（FrozenOcean）,冻洋（Frozen Ocean）
+冻河（FrozenRiver）,冻河（Frozen River）
+冰原,积雪的冻原
+蘑菇岛（Mushroom Island）,蘑菇岛（Mushroom Fields）
+蘑菇岛岸（MushroomIslandShore）,蘑菇岛岸（Mushroom Field Shore）
+针叶林丘陵（TaigaHills）,针叶林丘陵（Taiga Hills）
+峭壁边缘,山地边缘
+丛林边缘（JungleEdge）,丛林边缘（Jungle Edge）
+丛林丘陵（JungleHills）,丛林丘陵（Jungle Hills）
+冻沙滩,积雪沙滩
+黑森林（Roofed Forest）,黑森林（Dark Forest）
+冷针叶林,积雪针叶林
+冷针叶林山丘,积雪的针叶林丘陵
+巨型针叶林（Mega Taiga）,巨型针叶林（Giant Tree Taiga）
+巨型针叶林丘陵（Mega Taiga Hills）,巨型针叶林丘陵（Giant Tree Taiga Hills）
+峭壁+,繁茂的山地
+平顶山,恶地
+平顶山高原F,繁茂的恶地高原
+平顶山高原,恶地高原
+沙漠M,沙漠湖泊
+峭壁M,沙砾山地
+针叶林M,针叶林山地
+沼泽M,沼泽丘陵
+冰刺之地（Ice Plains Spikes）,冰刺之地（Ice Spikes）
+丛林M,丛林变种
+丛林边缘M,丛林边缘变种
+桦木森林M,高大桦木森林
+桦木森林丘陵M,高大桦木森林
+黑森林M,黑森林丘陵
+冷针叶林M,积雪的针叶林山地
+巨型云杉针叶林（Mega Spruce Taiga）,巨型云杉针叶林（Giant Spruce Taiga）
+巨型云杉针叶林丘陵（Redwood Taiga Hills）,巨型云杉针叶林丘陵（Giant Spruce Taiga Hills）
+峭壁+M,沙砾山地+
+热带草原M,破碎的热带草原
+热带高原M,破碎的热带高原
+平顶山（岩柱）,风蚀恶地
+平顶山高原FM,繁茂的恶地高原变种
+平顶山高原M,恶地高原变种

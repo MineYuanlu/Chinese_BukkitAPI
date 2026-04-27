@@ -1,0 +1,637 @@
+﻿category,english_name,chinese_name
+Blocks,Acacia Button,金合欢木按钮
+Blocks,Acacia Door,金合欢木门
+Blocks,Acacia Fence,金合欢木栅栏
+Blocks,Acacia Fence Gate,金合欢木栅栏门
+Blocks,Acacia Hanging Sign,悬挂式金合欢木告示牌
+Blocks,Acacia Leaves,金合欢树叶
+Blocks,Acacia Log,金合欢原木
+Blocks,Acacia Planks,金合欢木板
+Blocks,Acacia Pressure Plate,金合欢木压力板
+Blocks,Acacia Sapling,金合欢树苗
+Blocks,Acacia Shelf,金合欢木展示架
+Blocks,Acacia Sign,金合欢木告示牌
+Blocks,Acacia Slab,金合欢木台阶
+Blocks,Acacia Stairs,金合欢木楼梯
+Blocks,Acacia Trapdoor,金合欢木活板门
+Blocks,Acacia Wall Hanging Sign,墙上的悬挂式金合欢木告示牌
+Blocks,Acacia Wall Sign,墙上的金合欢木告示牌
+Blocks,Acacia Wood,金合欢木
+Blocks,Activator Rail,激活铁轨
+Blocks,Air,空气
+Blocks,Allium,绒球葱
+Blocks,Amethyst Bud,紫晶芽
+Blocks,Amethyst Cluster,紫水晶簇
+Blocks,Ancient Debris,远古残骸
+Blocks,Andesite,安山岩
+Blocks,Andesite Slab,安山岩台阶
+Blocks,Andesite Stairs,安山岩楼梯
+Blocks,Andesite Wall,安山岩墙
+Blocks,Anvil,铁砧
+Blocks,Attached Melon Stem,结果的西瓜茎
+Blocks,Attached Pumpkin Stem,结果的南瓜茎
+Blocks,Azalea,杜鹃花丛
+Blocks,Azalea Leaves,杜鹃树叶
+Blocks,Azure Bluet,蓝花美耳草
+Blocks,Bamboo,竹子
+Blocks,Bamboo Button,竹按钮
+Blocks,Bamboo Door,竹门
+Blocks,Bamboo Fence,竹栅栏
+Blocks,Bamboo Fence Gate,竹栅栏门
+Blocks,Bamboo Hanging Sign,悬挂式竹告示牌
+Blocks,Bamboo Mosaic,竹马赛克
+Blocks,Bamboo Mosaic Slab,竹马赛克台阶
+Blocks,Bamboo Mosaic Stairs,竹马赛克楼梯
+Blocks,Bamboo Planks,竹板
+Blocks,Bamboo Pressure Plate,竹压力板
+Blocks,Bamboo Shelf,竹展示架
+Blocks,Bamboo Shoot,竹笋
+Blocks,Bamboo Sign,竹告示牌
+Blocks,Bamboo Slab,竹台阶
+Blocks,Bamboo Stairs,竹楼梯
+Items,Acacia Boat,金合欢木船
+Items,Acacia Boat with Chest,金合欢木运输船
+Items,Allay Spawn Egg,悦灵刷怪蛋
+Items,Amethyst Shard,紫水晶碎片
+Items,Angler Pottery Sherd,垂钓纹样陶片
+Items,Apple,苹果
+Items,Archer Pottery Sherd,弓箭纹样陶片
+Items,Armadillo Scute,犰狳鳞甲
+Items,Armadillo Spawn Egg,犰狳刷怪蛋
+Items,Armor Stand,盔甲架
+Items,Arms Up Pottery Sherd,举臂纹样陶片
+Items,Arrow,箭
+Items,Arrow of Decay,衰变之箭
+Items,Arrow of Fire Resistance,抗火之箭
+Items,Arrow of Harming,伤害之箭
+Items,Arrow of Healing,治疗之箭
+Items,Arrow of Infestation,虫蚀之箭
+Items,Arrow of Invisibility,隐身之箭
+Items,Arrow of Leaping,跳跃之箭
+Items,Arrow of Luck,幸运之箭
+Items,Arrow of Night Vision,夜视之箭
+Items,Arrow of Oozing,渗浆之箭
+Items,Arrow of Poison,剧毒之箭
+Items,Arrow of Regeneration,再生之箭
+Items,Arrow of Slow Falling,缓降之箭
+Items,Arrow of Slowness,迟缓之箭
+Items,Arrow of Splashing,喷溅之箭
+Items,Arrow of Strength,力量之箭
+Items,Arrow of Swiftness,迅捷之箭
+Items,Arrow of the Turtle Master,神龟之箭
+Items,Arrow of Water Breathing,水肺之箭
+Items,Arrow of Weakness,虚弱之箭
+Items,Arrow of Weaving,盘丝之箭
+Items,Arrow of Wind Charging,蓄风之箭
+Items,Awkward Lingering Potion,滞留型粗制的药水
+Items,Awkward Potion,粗制的药水
+Items,Awkward Splash Potion,喷溅型粗制的药水
+Items,Axe,斧
+Items,Axolotl Spawn Egg,美西螈刷怪蛋
+Items,Baked Potato,烤马铃薯
+Items,Bamboo Raft,竹筏
+Items,Bamboo Raft with Chest,运输竹筏
+Items,Banner Pattern,旗帜图案
+Items,Bat Spawn Egg,蝙蝠刷怪蛋
+Items,Bee Spawn Egg,蜜蜂刷怪蛋
+Items,Beetroot,甜菜根
+Items,Beetroot Seeds,甜菜种子
+Items,Beetroot Soup,甜菜汤
+Items,Birch Boat,白桦木船
+Items,Birch Boat with Chest,白桦木运输船
+Entities,Acacia Boat,金合欢木船
+Entities,Acacia Boat with Chest,金合欢木运输船
+Entities,Allay,悦灵
+Entities,Area Effect Cloud,区域效果云
+Entities,Armadillo,犰狳
+Entities,Armor Stand,盔甲架
+Entities,Arrow,箭
+Entities,Axolotl,美西螈
+Entities,Bamboo Raft,竹筏
+Entities,Bamboo Raft with Chest,运输竹筏
+Entities,Bat,蝙蝠
+Entities,Bee,蜜蜂
+Entities,Birch Boat,白桦木船
+Entities,Birch Boat with Chest,白桦木运输船
+Entities,Blaze,烈焰人
+Entities,Block Display,方块展示实体
+Entities,Boat,船
+Entities,Boat with Chest,运输船
+Entities,Bogged,沼骸
+Entities,Breeze,旋风人
+Entities,Camel,骆驼
+Entities,Camel Husk,骆驼尸壳
+Entities,Cat,猫
+Entities,Cave Spider,洞穴蜘蛛
+Entities,Cherry Boat,樱花木船
+Entities,Cherry Boat with Chest,樱花木运输船
+Entities,Chicken,鸡
+Entities,Cod,鳕鱼
+Entities,Copper Golem,铜傀儡
+Entities,Cow,牛
+Entities,Creaking,嘎枝
+Entities,Creeper,苦力怕
+Entities,Dark Oak Boat,深色橡木船
+Entities,Dark Oak Boat with Chest,深色橡木运输船
+Entities,Dolphin,海豚
+Entities,Donkey,驴
+Entities,Dragon Fireball,末影龙火球
+Entities,Drowned,溺尸
+Entities,Elder Guardian,远古守卫者
+Entities,End Crystal,末地水晶
+Entities,Ender Dragon,末影龙
+Entities,Enderman,末影人
+Entities,Endermite,末影螨
+Entities,Evoker,唤魔者
+Entities,Evoker Fangs,唤魔者尖牙
+Entities,Experience Orb,经验球
+Entities,Eye of Ender,末影之眼
+Entities,Falling Block,下落的方块
+Entities,Fireball,火球
+Entities,Firework Rocket,烟花火箭
+Environment,Acacia,金合欢树
+Environment,Amethyst Geode,紫晶洞
+Environment,Ancient City,远古城市
+Environment,Aquifer,含水层
+Environment,Azalea,杜鹃树
+Environment,Basalt Column,玄武岩石柱林
+Environment,Basalt Pillar,玄武岩柱
+Environment,Bastion Remnant,堡垒遗迹
+Environment,Birch,白桦
+Environment,Blue Ice,蓝冰
+Environment,Bonus Chest,奖励箱
+Environment,Bryce Pillar,岩柱
+Environment,Buried Treasure,埋藏的宝藏
+Environment,Cave,洞穴
+Environment,Cheese Cave,芝士洞穴
+Environment,Cherry Blossom Tree,樱花树
+Environment,Chorus Plant,紫颂树
+Environment,Cloud,云
+Environment,Conduit Frame,潮涌核心框架
+Environment,Coral Reef,珊瑚礁
+Environment,Dark Oak,深色橡树
+Environment,Delta,三角洲
+Environment,Desert Pyramid,沙漠神殿
+Environment,Desert Well,沙漠水井
+Environment,Dimension,维度
+Environment,Disk,圆盘
+Environment,Dripstone,滴水石
+Environment,Dripstone Cluster,滴水石簇
+Environment,End City,末地城
+Environment,End Gateway,末地折跃门
+Environment,End Island,末地浮岛
+Environment,End Platform,末地平台
+Environment,End Portal,末地传送门
+Environment,End Ship,末地船
+Environment,Erosion,盆地
+Environment,Exit Portal,返回传送门
+Environment,Far Lands,边境之地
+Environment,Fill Layer,填充层
+Environment,Floating Island,浮岛
+Environment,Fog,迷雾
+Environment,Fortress,下界要塞
+Environment,Fossil,化石
+Environment,Freeze Top Layer,冰冻顶层
+Environment,Glowstone Blob,荧石堆
+Environment,Hill,丘陵
+Environment,Huge Brown Mushroom,巨型棕色蘑菇
+Environment,Huge Crimson Fungus,巨型绯红菌
+Environment,Huge Fungus,巨型下界菌
+Environment,Huge Mushroom,巨型蘑菇
+Environment,Huge Red Mushroom,巨型红色蘑菇
+Biomes,Badlands,恶地
+Biomes,Bamboo Jungle,竹林
+Biomes,Basalt Deltas,玄武岩三角洲
+Biomes,Beach,沙滩
+Biomes,Birch Forest,桦木森林
+Biomes,Cherry Grove,樱花树林
+Biomes,Cold Ocean,冷水海洋
+Biomes,Crimson Forest,绯红森林
+Biomes,Dark Forest,黑森林
+Biomes,Deep Cold Ocean,冷水深海
+Biomes,Deep Dark,深暗之域
+Biomes,Deep Frozen Ocean,冰冻深海
+Biomes,Deep Lukewarm Ocean,温水深海
+Biomes,Deep Ocean,深海
+Biomes,Desert,沙漠
+Biomes,Dripstone Caves,溶洞
+Biomes,End Barrens,末地荒地
+Biomes,End Highlands,末地高地
+Biomes,End Midlands,末地内陆
+Biomes,Eroded Badlands,风蚀恶地
+Biomes,Flower Forest,繁花森林
+Biomes,Forest,森林
+Biomes,Frozen Ocean,冻洋
+Biomes,Frozen Peaks,冰封山峰
+Biomes,Frozen River,冻河
+Biomes,Grove,雪林
+Biomes,Ice Spikes,冰刺之地
+Biomes,Jagged Peaks,尖峭山峰
+Biomes,Jungle,丛林
+Biomes,Lukewarm Ocean,温水海洋
+Biomes,Lush Caves,繁茂洞穴
+Biomes,Mangrove Swamp,红树林沼泽
+Biomes,Meadow,草甸
+Biomes,Mushroom Fields,蘑菇岛
+Biomes,Nether Wastes,下界荒地
+Biomes,Ocean,海洋
+Biomes,Old Growth Birch Forest,原始桦木森林
+Biomes,Old Growth Pine Taiga,原始松木针叶林
+Biomes,Old Growth Spruce Taiga,原始云杉针叶林
+Biomes,Pale Garden,苍白之园
+Biomes,Plains,平原
+Biomes,River,河流
+Biomes,Savanna,热带草原
+Biomes,Savanna Plateau,热带高原
+Biomes,Small End Islands,末地小型岛屿
+Biomes,Snowy Beach,积雪沙滩
+Biomes,Snowy Plains,雪原
+Biomes,Snowy Slopes,积雪山坡
+Biomes,Snowy Taiga,积雪针叶林
+Biomes,Soul Sand Valley,灵魂沙峡谷
+Status Effects,Absorption,伤害吸收
+Status Effects,Bad Luck,霉运
+Status Effects,Bad Omen,不祥之兆
+Status Effects,Blindness,失明
+Status Effects,Breath of the Nautilus,鹦鹉螺之息
+Status Effects,Conduit Power,潮涌能量
+Status Effects,Darkness,黑暗
+Status Effects,Dolphin's Grace,海豚的恩惠
+Status Effects,Fire Resistance,抗火
+Status Effects,Glowing,发光
+Status Effects,Haste,急迫
+Status Effects,Health Boost,生命提升
+Status Effects,Hero of the Village,村庄英雄
+Status Effects,Hunger,饥饿
+Status Effects,Infested,寄生
+Status Effects,Instant Damage,瞬间伤害
+Status Effects,Instant Health,瞬间治疗
+Status Effects,Invisibility,隐身
+Status Effects,Jump Boost,跳跃提升
+Status Effects,Levitation,飘浮
+Status Effects,Luck,幸运
+Status Effects,Mining Fatigue,挖掘疲劳
+Status Effects,Nausea,反胃
+Status Effects,Night Vision,夜视
+Status Effects,Oozing,渗浆
+Status Effects,Poison,中毒
+Status Effects,Raid Omen,袭击之兆
+Status Effects,Regeneration,生命恢复
+Status Effects,Resistance,抗性提升
+Status Effects,Saturation,饱和
+Status Effects,Slow Falling,缓降
+Status Effects,Slowness,缓慢
+Status Effects,Speed,迅捷
+Status Effects,Strength,力量
+Status Effects,Trial Omen,试炼之兆
+Status Effects,Water Breathing,水下呼吸
+Status Effects,Weakness,虚弱
+Status Effects,Weaving,盘丝
+Status Effects,Wind Charged,蓄风
+Status Effects,Wither,凋零
+Enchantments,Aqua Affinity,水下速掘
+Enchantments,Bane of Arthropods,节肢杀手
+Enchantments,Blast Protection,爆炸保护
+Enchantments,Breach,破甲
+Enchantments,Channeling,引雷
+Enchantments,Curse of Binding,绑定诅咒
+Enchantments,Curse of Vanishing,消失诅咒
+Enchantments,Density,致密
+Enchantments,Depth Strider,深海探索者
+Enchantments,Efficiency,效率
+Enchantments,Feather Falling,摔落缓冲
+Enchantments,Fire Aspect,火焰附加
+Enchantments,Fire Protection,火焰保护
+Enchantments,Flame,火矢
+Enchantments,Fortune,时运
+Enchantments,Frost Walker,冰霜行者
+Enchantments,Impaling,穿刺
+Enchantments,Infinity,无限
+Enchantments,Knockback,击退
+Enchantments,Looting,抢夺
+Enchantments,Loyalty,忠诚
+Enchantments,Luck of the Sea,海之眷顾
+Enchantments,Lunge,突进
+Enchantments,Lure,饵钓
+Enchantments,Mending,经验修补
+Enchantments,Multishot,多重射击
+Enchantments,Piercing,穿透
+Enchantments,Power,力量
+Enchantments,Projectile Protection,弹射物保护
+Enchantments,Protection,保护
+Enchantments,Punch,冲击
+Enchantments,Quick Charge,快速装填
+Enchantments,Respiration,水下呼吸
+Enchantments,Riptide,激流
+Enchantments,Sharpness,锋利
+Enchantments,Silk Touch,精准采集
+Enchantments,Smite,亡灵杀手
+Enchantments,Soul Speed,灵魂疾行
+Enchantments,Sweeping Edge,横扫之刃
+Enchantments,Swift Sneak,迅捷潜行
+Enchantments,Thorns,荆棘
+Enchantments,Unbreaking,耐久
+Enchantments,Wind Burst,风爆
+Advancements,A Balanced Diet,均衡饮食
+Advancements,A Complete Catalogue,百猫全书
+Advancements,A Furious Cocktail,狂乱的鸡尾酒
+Advancements,A Seedy Place,开荒垦地
+Advancements,A Terrible Fortress,阴森的要塞
+Advancements,A Throwaway Joke,抖包袱
+Advancements,Acquire Hardware,来硬的
+Advancements,Adventure,冒险
+Advancements,Adventuring Time,探索的时光
+Advancements,Arbalistic,劲弩手
+Advancements,Beaconator,信标工程师
+Advancements,Bee Our Guest,与蜂共舞
+Advancements,Best Friends Forever,永恒的伙伴
+Advancements,Birthday Song,生日快乐歌
+Advancements,Blowback,逆风翻盘
+Advancements,Bring Home the Beacon,带信标回家
+Advancements,Bukkit Bukkit,蚪到桶里来
+Advancements,Bullseye,正中靶心
+Advancements,Careful Restoration,精修细补
+Advancements,Caves & Cliffs,上天入地
+Advancements,"Country Lode, Take Me Home",天涯共此石
+Advancements,Cover Me in Debris,残骸裹身
+Advancements,Cover Me with Diamonds,钻石护体
+Advancements,Crafters Crafting Crafters,合成器合成合成器
+Advancements,Crafting a New Look,旧貌锻新颜
+Advancements,Diamonds!,钻石！
+Advancements,Enchanter,附魔师
+Advancements,Eye Spy,隔墙有眼
+Advancements,Feels Like Home,温暖如家
+Advancements,Fishy Business,腥味十足的生意
+Advancements,Free the End,解放末地
+Advancements,Getting an Upgrade,获得升级
+Advancements,Glow and Behold!,眼前一亮！
+Advancements,Good as New,完好如初
+Advancements,Great View From Up Here,这上面的风景不错
+Advancements,Heart Transplanter,移心接木
+Advancements,Hero of the Village,村庄英雄
+Advancements,Hidden in the Depths,深藏不露
+Advancements,Hired Help,招募援兵
+Advancements,Hot Stuff,热腾腾的
+Advancements,Hot Tourist Destinations,热门景点
+Advancements,How Did We Get Here?,为什么会变成这样呢？
+Advancements,Husbandry,农牧业
+Advancements,Ice Bucket Challenge,冰桶挑战
+Advancements,Into Fire,与火共舞
+Advancements,Is It a Balloon?,那是气球吗？
+Advancements,Is It a Bird?,那是鸟吗？
+Advancements,Is It a Plane?,那是飞机吗？
+Advancements,Isn't It Iron Pick,这不是铁镐么
+Advancements,Isn't It Scute?,这不是鳞甲么？
+Game Difficulty and Modes,Peaceful,和平
+Game Difficulty and Modes,Easy,简单
+Game Difficulty and Modes,Normal,普通
+Game Difficulty and Modes,Hard,困难
+Game Difficulty and Modes,Creative,创造模式
+Game Difficulty and Modes,Survival,生存模式
+Game Difficulty and Modes,Hardcore,极限模式
+Game Difficulty and Modes,Adventure,冒险模式
+Game Difficulty and Modes,Spectator,旁观模式
+Game Difficulty and Modes,Demo,演示模式 演示版
+Game Difficulty and Modes,S urvival S ingle p layer (SSP),单人生存模式
+Game Difficulty and Modes,S urvival M ulti p layer (SMP),多人生存模式
+Game Difficulty and Modes,C reative S ingle p layer (CSP),单人创造模式
+Game Difficulty and Modes,C reative M ulti p layer (CMP),多人创造模式
+Game Difficulty and Modes,H ardcore S ingle p layer (HSP),单人极限模式
+Game Difficulty and Modes,H ardcore M ulti p layer (HMP),多人极限模式
+Game Difficulty and Modes,A dventure S ingle p layer (ASP),单人冒险模式
+Game Difficulty and Modes,A dventure M ulti p layer (AMP),多人冒险模式
+Game Content,Splash,闪烁标语
+Game Content,Accessibility,辅助功能
+Game Content,Advancement,进度
+Game Content,Attack indicator,攻击指示器
+Game Content,Chest loot,箱子战利品
+Game Content,Loot table,战利品表
+Game Content,Crosshair,（十字）准星
+Game Content,Heads-up display (HUD),抬头显示器 平视显示器
+Game Content,Inventory,物品栏
+Game Content,Hotbar,快捷栏
+Game Content,Narrator,复述功能
+Game Content,Slot,槽位
+Game Content,Material,材料
+Game Content,Rarity,稀有度
+Game Content,Scoreboard,记分板
+Game Content,Spawn,生成
+Game Content,Status effect,状态效果
+Game Content,Third person view,第三人称视角
+Game Content,Waterlogging,含水
+Game Content,Breaking,破坏
+Game Content,Breeding,繁殖
+Game Content,Brewing,酿造
+Game Content,Farming,耕种
+Game Content,Crafting,合成
+Game Content,Recipe book,配方书
+Game Content,Enchanting,附魔
+Game Content,Health,生命
+Game Content,Health bar,生命条
+Game Content,Hunger,饥饿
+Game Content,Saturation level,饱和度
+Game Content,Smelting,烧炼
+Game Content,Trading,（村民）交易
+Game Content,Blocking,防御
+Game Content,Dual wield,双持
+Game Content,Sneaking,潜行
+Game Content,Sprinting,疾跑
+Game Content,Transportation,运输
+Game Content,Vehicle,载具
+Game Content,Tutorial hint,教学提示
+Game Content,Pillager patrol,灾厄巡逻队
+Game Content,Raid,袭击
+Game Content,Tier,品质
+Game Content,Architecture,建筑
+Game Content,Feature,地物
+Game Content,Old,旧世界类型
+Game Content,Hollow,空洞
+Game Content,Opacity,不透明度
+Game Content,Novice,新手
+Game Content,Apprentice,学徒
+Game Content,Journeyman,老手
+Game Content,Expert,专家
+Game Content,Master,大师
+Game Content,Unemployed,失业
+Game Content,Nitwit,傻子
+Game Content,Armorer,盔甲匠
+Game Content,Butcher,屠夫
+Game Content,Cartographer,制图师
+Game Content,Cleric,牧师
+Game Content,Farmer,农民
+Game Content,Fisherman,渔夫
+Game Content,Fletcher,制箭师
+Game Content,Leatherworker,皮匠
+Game Content,Librarian,图书管理员
+Game Content,Mason,石匠
+Game Content,Shepherd,牧羊人
+Game Content,Toolsmith,工具匠
+Game Content,Weaponsmith,武器匠
+Game Version Related,Mojang,−
+Game Version Related,Minecraft,−
+Game Version Related,Launcher,启动器
+Game Version Related,Realms,−
+Game Version Related,Bedrock Edition,基岩版
+Game Version Related,Education Edition,教育版
+Game Version Related,Java Edition,Java版
+Game Version Related,Legacy Console Edition,原主机版
+Game Version Related,New Nintendo 3DS Edition,New Nintendo 3DS版
+Game Version Related,Pocket Edition,携带版
+Game Version Related,Version history,版本记录
+Game Version Related,Development cycle,开发周期
+Game Version Related,Upcoming,即将到来
+Game Version Related,Planned version,计划版本
+Game Version Related,Feature,特性 功能
+Game Version Related,pre-Classic Classic Indev Infdev Alpha Beta,−
+Game Version Related,Official release Full release,正式版
+Game Version Related,Snapshot,快照
+Game Version Related,Pre-release,预发布版
+Game Version Related,Release candidate,发布候选
+Game Version Related,Build,开发版
+Game Version Related,Mentioned feature,提及特性
+Game Version Related,Removed feature,已移除特性
+Game Version Related,Exclusive feature,独有特性
+Game Version Related,Unused feature,未使用特性
+Game Version Related,Easter egg,彩蛋
+Game Version Related,Seecret Update,秘密更新
+Game Version Related,Seecret Friday Update,秘密周五更新
+Game Version Related,Seecret Saturday Update,秘密周六更新
+Game Version Related,Halloween Update,万圣节更新
+Game Version Related,Adventure Update,冒险更新
+Game Version Related,Pretty Scary Update,骇人更新
+Game Version Related,Redstone Update,红石更新
+Game Version Related,Horse Update,马匹更新
+Game Version Related,The Update that Changed the World,改变世界的更新
+Game Version Related,Bountiful Update,缤纷更新
+Game Version Related,Combat Update,战斗更新
+Game Version Related,Frostburn Update,霜炙更新
+Game Version Related,Exploration Update,探险更新
+Game Version Related,Colorful Update,多彩世界更新
+Game Version Related,Update Aquatic,水域更新
+Game Version Related,Village and Pillage,村庄与掠夺
+Game Version Related,Buzzy Bees,嗡嗡蜂群
+Game Version Related,Nether Update,下界更新
+Game Version Related,Caves & Cliffs,洞穴与山崖
+Game Version Related,The Wild Update,荒野更新
+Game Version Related,Trails & Tales,足迹与故事
+Game Version Related,Bats and Pots,蝙蝠与陶罐
+Game Version Related,Armored Paws,犰甲狼兵
+Game Version Related,Tricky Trials,棘巧试炼
+Game Version Related,Bundles of Bravery,勇气之袋
+Game Version Related,The Garden Awakens,苍园觉醒
+Game Version Related,Spring to Life,春意盎然
+Game Version Related,Chase the Skies,追逐天空
+Game Version Related,The Copper Age,铜器时代
+Game Version Related,Mounts of Mayhem,群骑纷争
+Game Version Related,Tiny Takeover,小鬼当家
+Game Version Related,Chaos Cubed,混沌立方
+Game Version Related,Pocket Edition Alpha,携带版Alpha
+Game Version Related,Pocket Edition Lite,携带版Lite
+Game Version Related,Bedrock Edition alpha,基岩版alpha
+Game Version Related,Bedrock Edition beta,基岩版beta
+Game Version Related,Overworld Update,主世界更新
+Game Version Related,Friendly Update,友好更新
+Game Version Related,Boss Update,Boss更新
+Game Version Related,Ender Update,末影更新
+Game Version Related,Discovery Update,探索更新
+Game Version Related,Better Together Update,独乐不如众乐更新
+Technical Content,Add-on,附加包
+Technical Content,Actionbar,动作栏
+Technical Content,Argument,（实际）参数
+Technical Content,Artifact,意外的……纹理 缺陷 瑕疵
+Technical Content,Asset,资源
+Technical Content,Block state (BS),方块状态
+Technical Content,Boolean,布尔值 布尔型
+Technical Content,Bug,漏洞
+Technical Content,Command,命令
+Technical Content,Common,普通 共通
+Technical Content,Component,组件
+Technical Content,Coordinate,坐标
+Technical Content,Crash,崩溃
+Technical Content,Data pack,数据包
+Technical Content,Data value (DV),数据值
+Technical Content,Damage value,损坏值
+Technical Content,Debug screen,调试屏幕
+Technical Content,Despawn,清除 消失
+Technical Content,Dummy,虚拟型
+Technical Content,Field,字段
+Technical Content,Fixes,修复
+Technical Content,Format,格式
+Technical Content,Formatting code,格式化代码
+Technical Content,Flattening,扁平化
+Technical Content,Function,函数 功能
+Technical Content,Generation,生成
+Technical Content,GUI,图形用户界面
+Technical Content,Hotfix,热修复
+Technical Content,ID,−
+Technical Content,Interpret,解析
+Technical Content,Long,长整型
+Technical Content,Mash-up pack,混搭包
+Technical Content,Material,材质 材料
+Technical Content,Mob cap,生物容量
+Technical Content,Mod,−
+Technical Content,Modify,修改
+Technical Content,Module,模块
+Technical Content,NBT,−
+Technical Content,Option,选项
+Technical Content,Outdated,过期 过时
+Technical Content,Parameter,（形式）参数
+Technical Content,Particle,粒子
+Technical Content,Placeholder,占位符
+Technical Content,Position,位置
+Technical Content,Present,选定
+Technical Content,Range,范围
+Technical Content,Respawn,重生
+Technical Content,Screenshot,截图
+Technical Content,Setting,设置
+Technical Content,Spawn chunk,出生点区块
+Technical Content,Spawn point,出生点
+Technical Content,Sprite,拼合图 精灵图
+Technical Content,String,字符串
+Technical Content,Syntax,语法
+Technical Content,Template,模板
+Technical Content,Texture,纹理
+Technical Content,Tick,刻
+Technical Content,Ticking area,常加载区域
+Technical Content,Tile,−
+Technical Content,Toast,弹窗
+Technical Content,Tooltip,提示框
+Technical Content,Hotbar,快捷栏
+Others,Added...,加入了……
+Others,Addition,新内容
+Others,Available,可用的
+Others,Behavior,行为
+Others,Chance,概率
+Others,Changes,更改
+Others,Destroy,摧毁
+Others,Disambig Disambiguation,消歧义
+Others,Gallery,画廊
+Others,Gameplay,游戏内容
+Others,General,常规
+Others,Implement,实现
+Others,Improve,改进
+Others,Interwiki,跨Wiki链接
+Others,Kill,杀死
+Others,Label,标签
+Others,Legend,图例
+Others,Manufacture,人造
+Others,Natural,自然
+Others,Obtain,获取
+Others,Parity,趋同
+Others,Performance,性能
+Others,Redirect,重定向
+Others,Reference,参考
+Others,Release,发布
+Others,Removed...,移除了……
+Others,Sandbox,沙盒
+Others,Scale,缩放
+Others,See also,参见
+Others,Size,大小
+Others,Stack,堆叠数 堆叠组
+Others,Table,表格
+Others,Trivia,你知道吗
+Others,Utility,效用型
+Others,Usage,用途 用法
+Others,Vanilla,原版
+Others,Variant,变种 变体
+Others,Job site Workplace,工作站点

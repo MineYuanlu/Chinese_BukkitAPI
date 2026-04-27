@@ -1,0 +1,459 @@
+﻿改动,Java版1.12.2,Java版1.12.2,Java版1.13,Java版1.13
+改动,方块,命名空间ID,方块,命名空间ID
+拆分,石头,stone,石头,stone
+拆分,石头,stone,花岗岩,granite
+拆分,石头,stone,磨制花岗岩,polished_granite
+拆分,石头,stone,闪长岩,diorite
+拆分,石头,stone,磨制闪长岩,polished_diorite
+拆分,石头,stone,安山岩,andesite
+拆分,石头,stone,磨制安山岩,polished_andesite
+重命名,草方块,grass,草方块,grass_block
+拆分,泥土,dirt,泥土,dirt
+拆分,泥土,dirt,砂土,coarse_dirt
+拆分,泥土,dirt,灰化土,podzol
+拆分,木板,planks,橡木木板,oak_planks
+拆分,木板,planks,云杉木板,spruce_planks
+拆分,木板,planks,白桦木板,birch_planks
+拆分,木板,planks,丛林木板,jungle_planks
+拆分,木板,planks,金合欢木板,acacia_planks
+拆分,木板,planks,深色橡木木板,dark_oak_planks
+拆分,树苗,sapling,橡树树苗,oak_sapling
+拆分,树苗,sapling,云杉树苗,spruce_sapling
+拆分,树苗,sapling,白桦树苗,birch_sapling
+拆分,树苗,sapling,丛林树苗,jungle_sapling
+拆分,树苗,sapling,金合欢树苗,acacia_sapling
+拆分,树苗,sapling,深色橡树树苗,dark_oak_sapling
+拆分,沙子,sand,沙子,sand
+拆分,沙子,sand,红沙,red_sand
+拆分,原木,log,橡木原木,oak_log
+拆分,原木,log,云杉原木,spruce_log
+拆分,原木,log,白桦原木,birch_log
+拆分,原木,log,丛林原木,jungle_log
+拆分,原木,log,橡木,oak_wood
+拆分,原木,log,云杉木,spruce_wood
+拆分,原木,log,白桦木,birch_wood
+拆分,原木,log,丛林木,jungle_wood
+拆分,原木（2）,log2,金合欢原木,acacia_log
+拆分,原木（2）,log2,深色橡木原木,dark_oak_log
+拆分,原木（2）,log2,金合欢木,acacia_wood
+拆分,原木（2）,log2,深色橡木,dark_oak_wood
+拆分,树叶,leaves,橡树树叶,oak_leaves
+拆分,树叶,leaves,云杉树叶,spruce_leaves
+拆分,树叶,leaves,白桦树叶,birch_leaves
+拆分,树叶,leaves,丛林树叶,jungle_leaves
+拆分,树叶（2）,leaves2,金合欢树叶,acacia_leaves
+拆分,树叶（2）,leaves2,深色橡树树叶,dark_oak_leaves
+拆分,海绵,sponge,海绵,sponge
+拆分,海绵,sponge,湿海绵,wet_sponge
+拆分,砂岩,sandstone,砂岩,sandstone
+拆分,砂岩,sandstone,雕纹砂岩,chiseled_sandstone
+拆分,砂岩,sandstone,切制砂岩,cut_sandstone
+重命名,音符盒,noteblock,音符盒,note_block
+重命名,动力铁轨,golden_rail,动力铁轨,powered_rail
+重命名,蜘蛛网,web,蜘蛛网,cobweb
+拆分,草丛,tallgrass,枯萎的灌木,dead_bush
+拆分,草丛,tallgrass,草丛,grass
+拆分,草丛,tallgrass,蕨,fern
+重命名,枯萎的灌木,deadbush,枯萎的灌木,dead_bush
+重命名,移动的活塞 [注 1],piston_extension,移动的活塞 [注 1],moving_piston
+拆分,羊毛,wool,白色羊毛,white_wool
+拆分,羊毛,wool,橙色羊毛,orange_wool
+拆分,羊毛,wool,品红色羊毛,magenta_wool
+拆分,羊毛,wool,淡蓝色羊毛,light_blue_wool
+拆分,羊毛,wool,黄色羊毛,yellow_wool
+拆分,羊毛,wool,黄绿色羊毛,lime_wool
+拆分,羊毛,wool,粉红色羊毛,pink_wool
+拆分,羊毛,wool,灰色羊毛,gray_wool
+拆分,羊毛,wool,淡灰色羊毛,light_gray_wool
+拆分,羊毛,wool,青色羊毛,cyan_wool
+拆分,羊毛,wool,紫色羊毛,purple_wool
+拆分,羊毛,wool,蓝色羊毛,blue_wool
+拆分,羊毛,wool,棕色羊毛,brown_wool
+拆分,羊毛,wool,绿色羊毛,green_wool
+拆分,羊毛,wool,红色羊毛,red_wool
+拆分,羊毛,wool,黑色羊毛,black_wool
+重命名,蒲公英,yellow_flower,蒲公英,dandelion
+拆分,花,red_flower,虞美人,poppy
+拆分,花,red_flower,兰花,blue_orchid
+拆分,花,red_flower,绒球葱,allium
+拆分,花,red_flower,蓝花美耳草,azure_bluet
+拆分,花,red_flower,红色郁金香,red_tulip
+拆分,花,red_flower,橙色郁金香,orange_tulip
+拆分,花,red_flower,白色郁金香,white_tulip
+拆分,花,red_flower,粉红色郁金香,pink_tulip
+拆分,花,red_flower,滨菊,oxeye_daisy
+重新分类,木质双层台阶 [注 1],double_wooden_slab,橡木台阶,oak_slab
+重新分类,木质双层台阶 [注 1],double_wooden_slab,云杉木台阶,spruce_slab
+重新分类,木质双层台阶 [注 1],double_wooden_slab,白桦木台阶,birch_slab
+重新分类,木质台阶,wooden_slab,丛林木台阶,jungle_slab
+重新分类,木质台阶,wooden_slab,金合欢木台阶,acacia_slab
+重新分类,木质台阶,wooden_slab,深色橡木台阶,dark_oak_slab
+重新分类,石质双层台阶 [注 1],double_stone_slab,石台阶,stone_slab
+重新分类,石质双层台阶 [注 1],double_stone_slab,砂岩台阶,sandstone_slab
+重新分类,石质双层台阶 [注 1],double_stone_slab,石化橡木台阶,petrified_oak_slab
+重新分类,石质双层台阶 [注 1],double_stone_slab,圆石台阶,cobblestone_slab
+重新分类,石质双层台阶 [注 1],double_stone_slab,砖台阶,brick_slab
+重新分类,石质台阶,stone_slab,石砖台阶,stone_brick_slab
+重新分类,石质台阶,stone_slab,下界砖台阶,nether_brick_slab
+重新分类,石质台阶,stone_slab,石英台阶,quartz_slab
+重新分类,石质台阶,stone_slab,平滑石头,smooth_stone
+重新分类,石质台阶,stone_slab,平滑砂岩,smooth_sandstone
+重新分类,石质台阶,stone_slab,平滑石英块,smooth_quartz
+重新分类,红砂岩双层台阶 [注 1],double_stone_slab2,红砂岩台阶,red_sandstone_slab
+重新分类,红砂岩台阶,stone_slab2,平滑红砂岩,smooth_red_sandstone
+合并,紫珀双层台阶 [注 1],double_purpur_slab,紫珀台阶,purpur_slab
+合并,紫珀台阶,purpur_slab
+重命名,砖块,brick_block,砖块,bricks
+重命名,刷怪笼,mob_spawner,刷怪笼,spawner
+重命名,下界传送门,portal,下界传送门,nether_portal
+拆分,火把,torch,墙上的火把 [注 1],wall_torch
+拆分,火把,torch,紫珀台阶,purpur_slab,火把,torch
+合并,熔炉,furnace,熔炉,furnace
+合并,燃烧中的熔炉 [注 1],lit_furnace
+重命名,圆石楼梯,stone_stairs,圆石楼梯,cobblestone_stairs
+重命名,橡木压力板,wooden_pressure_plate,橡木压力板,oak_pressure_plate
+合并,红石矿石,redstone_ore,红石矿石,redstone_ore
+合并,发光的红石矿石 [注 1],lit_redstone_ore
+重新分类,熄灭的红石火把 [注 1],unlit_redstone_torch,墙上的红石火把 [注 1],redstone_wall_torch
+重新分类,红石火把,redstone_torch,红石火把,redstone_torch
+重命名,雪,snow_layer,雪,snow
+重命名,雪块,snow,雪块,snow_block
+重命名,橡木栅栏,fence,橡木栅栏,oak_fence
+重命名,雕刻南瓜,pumpkin,雕刻南瓜,carved_pumpkin
+重命名,南瓜灯,lit_pumpkin,南瓜灯,jack_o_lantern
+重命名,橡木活板门,trapdoor,橡木活板门,oak_trapdoor
+拆分,虫蚀方块,monster_egg,虫蚀石头,infested_stone
+拆分,虫蚀方块,monster_egg,红石矿石,redstone_ore,虫蚀圆石,infested_cobblestone
+拆分,虫蚀方块,monster_egg,虫蚀石砖,infested_stone_bricks
+拆分,虫蚀方块,monster_egg,虫蚀苔石砖,infested_mossy_stone_bricks
+拆分,虫蚀方块,monster_egg,虫蚀裂纹石砖,infested_cracked_stone_bricks
+拆分,虫蚀方块,monster_egg,虫蚀雕纹石砖,infested_chiseled_stone_bricks
+拆分,石砖,stonebrick,石砖,stone_bricks
+拆分,石砖,stonebrick,苔石砖,mossy_stone_bricks
+拆分,石砖,stonebrick,裂纹石砖,cracked_stone_bricks
+拆分,石砖,stonebrick,雕纹石砖,chiseled_stone_bricks
+重新分类,棕色蘑菇方块,brown_mushroom_block,棕色蘑菇方块,brown_mushroom_block
+重新分类,棕色蘑菇方块,brown_mushroom_block,蘑菇梗,mushroom_stem
+重新分类,红色蘑菇方块,red_mushroom_block
+重新分类,红色蘑菇方块,red_mushroom_block,蘑菇梗,mushroom_stem,红色蘑菇方块,red_mushroom_block
+重命名,西瓜,melon_block,西瓜,melon
+重命名,橡木栅栏门,fence_gate,橡木栅栏门,oak_fence_gate
+重命名,睡莲,waterlily,睡莲,lily_pad
+重命名,下界砖块,nether_brick,下界砖块,nether_bricks
+重命名,末地石砖,end_bricks,末地石砖,end_stone_bricks
+合并,红石灯,redstone_lamp,红石灯,redstone_lamp
+合并,发光的红石灯 [注 1],lit_redstone_lamp
+拆分,圆石墙,cobblestone_wall,圆石墙,cobblestone_wall
+拆分,圆石墙,cobblestone_wall,红石灯,redstone_lamp,苔石墙,mossy_cobblestone_wall
+重命名,橡木按钮,wooden_button,橡木按钮,oak_button
+拆分,铁砧,anvil,铁砧,anvil
+拆分,铁砧,anvil,开裂的铁砧,chipped_anvil
+拆分,铁砧,anvil,损坏的铁砧,damaged_anvil
+合并,阳光探测器,daylight_detector,阳光探测器,daylight_detector
+合并,反向阳光探测器 [注 1],daylight_detector_inverted
+重命名,下界石英矿石,quartz_ore,下界石英矿石,nether_quartz_ore
+拆分,石英块,quartz_block,石英块,quartz_block
+拆分,石英块,quartz_block,阳光探测器,daylight_detector,雕纹石英块,chiseled_quartz_block
+拆分,石英块,quartz_block,石英柱,quartz_pillar
+拆分,染色陶瓦,stained_hardened_clay,白色陶瓦,white_terracotta
+拆分,染色陶瓦,stained_hardened_clay,橙色陶瓦,orange_terracotta
+拆分,染色陶瓦,stained_hardened_clay,品红色陶瓦,magenta_terracotta
+拆分,染色陶瓦,stained_hardened_clay,淡蓝色陶瓦,light_blue_terracotta
+拆分,染色陶瓦,stained_hardened_clay,黄色陶瓦,yellow_terracotta
+拆分,染色陶瓦,stained_hardened_clay,黄绿色陶瓦,lime_terracotta
+拆分,染色陶瓦,stained_hardened_clay,粉红色陶瓦,pink_terracotta
+拆分,染色陶瓦,stained_hardened_clay,灰色陶瓦,gray_terracotta
+拆分,染色陶瓦,stained_hardened_clay,淡灰色陶瓦,light_gray_terracotta
+拆分,染色陶瓦,stained_hardened_clay,青色陶瓦,cyan_terracotta
+拆分,染色陶瓦,stained_hardened_clay,紫色陶瓦,purple_terracotta
+拆分,染色陶瓦,stained_hardened_clay,蓝色陶瓦,blue_terracotta
+拆分,染色陶瓦,stained_hardened_clay,棕色陶瓦,brown_terracotta
+拆分,染色陶瓦,stained_hardened_clay,绿色陶瓦,green_terracotta
+拆分,染色陶瓦,stained_hardened_clay,红色陶瓦,red_terracotta
+拆分,染色陶瓦,stained_hardened_clay,黑色陶瓦,black_terracotta
+拆分,地毯,carpet,白色地毯,white_carpet
+拆分,地毯,carpet,橙色地毯,orange_carpet
+拆分,地毯,carpet,品红色地毯,magenta_carpet
+拆分,地毯,carpet,淡蓝色地毯,light_blue_carpet
+拆分,地毯,carpet,黄色地毯,yellow_carpet
+拆分,地毯,carpet,黄绿色地毯,lime_carpet
+拆分,地毯,carpet,粉红色地毯,pink_carpet
+拆分,地毯,carpet,灰色地毯,gray_carpet
+拆分,地毯,carpet,淡灰色地毯,light_gray_carpet
+拆分,地毯,carpet,青色地毯,cyan_carpet
+拆分,地毯,carpet,紫色地毯,purple_carpet
+拆分,地毯,carpet,蓝色地毯,blue_carpet
+拆分,地毯,carpet,棕色地毯,brown_carpet
+拆分,地毯,carpet,绿色地毯,green_carpet
+拆分,地毯,carpet,红色地毯,red_carpet
+拆分,地毯,carpet,黑色地毯,black_carpet
+重命名,陶瓦,hardened_clay,陶瓦,terracotta
+重命名,黏液块,slime,黏液块,slime_block
+拆分,大型植物,double_plant,向日葵,sunflower
+拆分,大型植物,double_plant,丁香,lilac
+拆分,大型植物,double_plant,高草丛,tall_grass
+拆分,大型植物,double_plant,大型蕨,large_fern
+拆分,大型植物,double_plant,玫瑰丛,rose_bush
+拆分,大型植物,double_plant,牡丹,peony
+拆分,染色玻璃,stained_glass,白色染色玻璃,white_stained_glass
+拆分,染色玻璃,stained_glass,橙色染色玻璃,orange_stained_glass
+拆分,染色玻璃,stained_glass,品红色染色玻璃,magenta_stained_glass
+拆分,染色玻璃,stained_glass,淡蓝色染色玻璃,light_blue_stained_glass
+拆分,染色玻璃,stained_glass,黄色染色玻璃,yellow_stained_glass
+拆分,染色玻璃,stained_glass,黄绿色染色玻璃,lime_stained_glass
+拆分,染色玻璃,stained_glass,粉红色染色玻璃,pink_stained_glass
+拆分,染色玻璃,stained_glass,灰色染色玻璃,gray_stained_glass
+拆分,染色玻璃,stained_glass,淡灰色染色玻璃,light_gray_stained_glass
+拆分,染色玻璃,stained_glass,青色染色玻璃,cyan_stained_glass
+拆分,染色玻璃,stained_glass,紫色染色玻璃,purple_stained_glass
+拆分,染色玻璃,stained_glass,蓝色染色玻璃,blue_stained_glass
+拆分,染色玻璃,stained_glass,棕色染色玻璃,brown_stained_glass
+拆分,染色玻璃,stained_glass,绿色染色玻璃,green_stained_glass
+拆分,染色玻璃,stained_glass,红色染色玻璃,red_stained_glass
+拆分,染色玻璃,stained_glass,黑色染色玻璃,black_stained_glass
+拆分,染色玻璃板,stained_glass_pane,白色染色玻璃板,white_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,橙色染色玻璃板,orange_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,品红色染色玻璃板,magenta_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,淡蓝色染色玻璃板,light_blue_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,黄色染色玻璃板,yellow_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,黄绿色染色玻璃板,lime_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,粉红色染色玻璃板,pink_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,灰色染色玻璃板,gray_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,淡灰色染色玻璃板,light_gray_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,青色染色玻璃板,cyan_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,紫色染色玻璃板,purple_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,蓝色染色玻璃板,blue_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,棕色染色玻璃板,brown_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,绿色染色玻璃板,green_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,红色染色玻璃板,red_stained_glass_pane
+拆分,染色玻璃板,stained_glass_pane,黑色染色玻璃板,black_stained_glass_pane
+拆分,海晶石,prismarine,海晶石,prismarine
+拆分,海晶石,prismarine,海晶石砖,prismarine_bricks
+拆分,海晶石,prismarine,暗海晶石,dark_prismarine
+拆分,红砂岩,red_sandstone,红砂岩,red_sandstone
+拆分,红砂岩,red_sandstone,雕纹红砂岩,chiseled_red_sandstone
+拆分,红砂岩,red_sandstone,切制红砂岩,cut_red_sandstone
+重命名,岩浆块,magma,岩浆块,magma_block
+重命名,红色下界砖块,red_nether_brick,红色下界砖块,red_nether_bricks
+重命名,淡灰色潜影盒,silver_shulker_box,淡灰色潜影盒,light_gray_shulker_box
+重命名,淡灰色带釉陶瓦,silver_glazed_terracotta,淡灰色带釉陶瓦,light_gray_glazed_terracotta
+拆分,混凝土,concrete,白色混凝土,white_concrete
+拆分,混凝土,concrete,橙色混凝土,orange_concrete
+拆分,混凝土,concrete,品红色混凝土,magenta_concrete
+拆分,混凝土,concrete,淡蓝色混凝土,light_blue_concrete
+拆分,混凝土,concrete,黄色混凝土,yellow_concrete
+拆分,混凝土,concrete,黄绿色混凝土,lime_concrete
+拆分,混凝土,concrete,粉红色混凝土,pink_concrete
+拆分,混凝土,concrete,灰色混凝土,gray_concrete
+拆分,混凝土,concrete,淡灰色混凝土,light_gray_concrete
+拆分,混凝土,concrete,青色混凝土,cyan_concrete
+拆分,混凝土,concrete,紫色混凝土,purple_concrete
+拆分,混凝土,concrete,蓝色混凝土,blue_concrete
+拆分,混凝土,concrete,棕色混凝土,brown_concrete
+拆分,混凝土,concrete,绿色混凝土,green_concrete
+拆分,混凝土,concrete,红色混凝土,red_concrete
+拆分,混凝土,concrete,黑色混凝土,black_concrete
+拆分,混凝土粉末,concrete_powder,白色混凝土粉末,white_concrete_powder
+拆分,混凝土粉末,concrete_powder,橙色混凝土粉末,orange_concrete_powder
+拆分,混凝土粉末,concrete_powder,品红色混凝土粉末,magenta_concrete_powder
+拆分,混凝土粉末,concrete_powder,淡蓝色混凝土粉末,light_blue_concrete_powder
+拆分,混凝土粉末,concrete_powder,黄色混凝土粉末,yellow_concrete_powder
+拆分,混凝土粉末,concrete_powder,黄绿色混凝土粉末,lime_concrete_powder
+拆分,混凝土粉末,concrete_powder,粉红色混凝土粉末,pink_concrete_powder
+拆分,混凝土粉末,concrete_powder,灰色混凝土粉末,gray_concrete_powder
+拆分,混凝土粉末,concrete_powder,淡灰色混凝土粉末,light_gray_concrete_powder
+拆分,混凝土粉末,concrete_powder,青色混凝土粉末,cyan_concrete_powder
+拆分,混凝土粉末,concrete_powder,紫色混凝土粉末,purple_concrete_powder
+拆分,混凝土粉末,concrete_powder,蓝色混凝土粉末,blue_concrete_powder
+拆分,混凝土粉末,concrete_powder,棕色混凝土粉末,brown_concrete_powder
+拆分,混凝土粉末,concrete_powder,绿色混凝土粉末,green_concrete_powder
+拆分,混凝土粉末,concrete_powder,红色混凝土粉末,red_concrete_powder
+拆分,混凝土粉末,concrete_powder,黑色混凝土粉末,black_concrete_powder
+重命名,橡木门,wooden_door,橡木门,oak_door
+合并,未激活的红石中继器 [注 1],unpowered_repeater,红石中继器,repeater
+合并,激活的红石中继器 [注 1],powered_repeater
+合并,红石中继器,repeater
+合并,未激活的红石比较器 [注 1],unpowered_comparator,红石比较器,comparator
+合并,激活的红石比较器 [注 1],powered_comparator
+合并,红石比较器,comparator
+拆分,煤炭,coal,煤炭,coal
+拆分,煤炭,coal,红石比较器,comparator,木炭,charcoal
+拆分,金苹果,golden_apple,金苹果,golden_apple
+拆分,金苹果,golden_apple,红石比较器,comparator,附魔金苹果,enchanted_golden_apple
+合并,站立的告示牌 [注 1],standing_sign,告示牌,sign
+合并,告示牌,sign
+合并,水 [注 1],water,水 [注 1],water
+合并,流动的水 [注 1],flowing_water
+合并,熔岩 [注 1],lava,熔岩 [注 1],lava
+合并,流动的熔岩 [注 1],flowing_lava
+重命名,橡木船,boat,橡木船,oak_boat
+重命名,甘蔗,reeds,甘蔗,sugar_cane
+拆分,生鱼,fish,生鳕鱼,cod
+拆分,生鱼,fish,熔岩 [注 1],lava,生鲑鱼,salmon
+拆分,生鱼,fish,热带鱼,tropical_fish
+拆分,生鱼,fish,河豚,pufferfish
+拆分,熟鱼,cooked_fish,熟鳕鱼,cooked_cod
+拆分,熟鱼,cooked_fish,熟鲑鱼,cooked_salmon
+拆分,染料,dye,骨粉,bone_meal
+拆分,染料,dye,橙色染料,orange_dye
+拆分,染料,dye,品红色染料,magenta_dye
+拆分,染料,dye,淡蓝色染料,light_blue_dye
+拆分,染料,dye,蒲公英黄,dandelion_yellow
+拆分,染料,dye,黄绿色染料,lime_dye
+拆分,染料,dye,粉红色染料,pink_dye
+拆分,染料,dye,灰色染料,gray_dye
+拆分,染料,dye,淡灰色染料,light_gray_dye
+拆分,染料,dye,青色染料,cyan_dye
+拆分,染料,dye,紫色染料,purple_dye
+拆分,染料,dye,青金石,lapis_lazuli
+拆分,染料,dye,可可豆,cocoa_beans
+拆分,染料,dye,仙人掌绿,cactus_green
+拆分,染料,dye,玫瑰红,rose_red
+拆分,染料,dye,墨囊,ink_sac
+拆分,床,bed,白色床,white_bed
+拆分,床,bed,橙色床,orange_bed
+拆分,床,bed,品红色床,magenta_bed
+拆分,床,bed,淡蓝色床,light_blue_bed
+拆分,床,bed,黄色床,yellow_bed
+拆分,床,bed,黄绿色床,lime_bed
+拆分,床,bed,粉红色床,pink_bed
+拆分,床,bed,灰色床,gray_bed
+拆分,床,bed,淡灰色床,light_gray_bed
+拆分,床,bed,青色床,cyan_bed
+拆分,床,bed,紫色床,purple_bed
+拆分,床,bed,蓝色床,blue_bed
+拆分,床,bed,棕色床,brown_bed
+拆分,床,bed,绿色床,green_bed
+拆分,床,bed,红色床,red_bed
+拆分,床,bed,黑色床,black_bed
+重命名,西瓜片,melon,西瓜片,melon_slice
+拆分,南瓜茎 [注 1],pumpkin_stem,南瓜茎 [注 1],pumpkin_stem
+拆分,南瓜茎 [注 1],pumpkin_stem,附着的南瓜茎 [注 1],attached_pumpkin_stem
+拆分,西瓜茎 [注 1],melon_stem,西瓜茎 [注 1],melon_stem
+拆分,西瓜茎 [注 1],melon_stem,附着的西瓜茎 [注 1],attached_melon_stem
+重命名,闪烁的西瓜片,speckled_melon,闪烁的西瓜片,glistering_melon_slice
+拆分,刷怪蛋,spawn_egg,蝙蝠刷怪蛋,bat_spawn_egg
+拆分,刷怪蛋,spawn_egg,烈焰人刷怪蛋,blaze_spawn_egg
+拆分,刷怪蛋,spawn_egg,洞穴蜘蛛刷怪蛋,cave_spider_spawn_egg
+拆分,刷怪蛋,spawn_egg,鸡刷怪蛋,chicken_spawn_egg
+拆分,刷怪蛋,spawn_egg,牛刷怪蛋,cow_spawn_egg
+拆分,刷怪蛋,spawn_egg,苦力怕刷怪蛋,creeper_spawn_egg
+拆分,刷怪蛋,spawn_egg,驴刷怪蛋,donkey_spawn_egg
+拆分,刷怪蛋,spawn_egg,远古守卫者刷怪蛋,elder_guardian_spawn_egg
+拆分,刷怪蛋,spawn_egg,末影人刷怪蛋,enderman_spawn_egg
+拆分,刷怪蛋,spawn_egg,末影螨刷怪蛋,endermite_spawn_egg
+拆分,刷怪蛋,spawn_egg,唤魔者刷怪蛋,evoker_spawn_egg
+拆分,刷怪蛋,spawn_egg,恶魂刷怪蛋,ghast_spawn_egg
+拆分,刷怪蛋,spawn_egg,守卫者刷怪蛋,guardian_spawn_egg
+拆分,刷怪蛋,spawn_egg,马刷怪蛋,horse_spawn_egg
+拆分,刷怪蛋,spawn_egg,尸壳刷怪蛋,husk_spawn_egg
+拆分,刷怪蛋,spawn_egg,羊驼刷怪蛋,llama_spawn_egg
+拆分,刷怪蛋,spawn_egg,岩浆怪刷怪蛋,magma_cube_spawn_egg
+拆分,刷怪蛋,spawn_egg,哞菇刷怪蛋,mooshroom_spawn_egg
+拆分,刷怪蛋,spawn_egg,骡刷怪蛋,mule_spawn_egg
+拆分,刷怪蛋,spawn_egg,豹猫刷怪蛋,ocelot_spawn_egg
+拆分,刷怪蛋,spawn_egg,鹦鹉刷怪蛋,parrot_spawn_egg
+拆分,刷怪蛋,spawn_egg,猪刷怪蛋,pig_spawn_egg
+拆分,刷怪蛋,spawn_egg,北极熊刷怪蛋,polar_bear_spawn_egg
+拆分,刷怪蛋,spawn_egg,兔子刷怪蛋,rabbit_spawn_egg
+拆分,刷怪蛋,spawn_egg,绵羊刷怪蛋,sheep_spawn_egg
+拆分,刷怪蛋,spawn_egg,潜影贝刷怪蛋,shulker_spawn_egg
+拆分,刷怪蛋,spawn_egg,蠹虫刷怪蛋,silverfish_spawn_egg
+拆分,刷怪蛋,spawn_egg,骷髅刷怪蛋,skeleton_spawn_egg
+拆分,刷怪蛋,spawn_egg,骷髅马刷怪蛋,skeleton_horse_spawn_egg
+拆分,刷怪蛋,spawn_egg,史莱姆刷怪蛋,slime_spawn_egg
+拆分,刷怪蛋,spawn_egg,蜘蛛刷怪蛋,spider_spawn_egg
+拆分,刷怪蛋,spawn_egg,鱿鱼刷怪蛋,squid_spawn_egg
+拆分,刷怪蛋,spawn_egg,流浪者刷怪蛋,stray_spawn_egg
+拆分,刷怪蛋,spawn_egg,恼鬼刷怪蛋,vex_spawn_egg
+拆分,刷怪蛋,spawn_egg,村民刷怪蛋,villager_spawn_egg
+拆分,刷怪蛋,spawn_egg,卫道士刷怪蛋,vindicator_spawn_egg
+拆分,刷怪蛋,spawn_egg,女巫刷怪蛋,witch_spawn_egg
+拆分,刷怪蛋,spawn_egg,凋灵骷髅刷怪蛋,wither_skeleton_spawn_egg
+拆分,刷怪蛋,spawn_egg,狼刷怪蛋,wolf_spawn_egg
+拆分,刷怪蛋,spawn_egg,僵尸刷怪蛋,zombie_spawn_egg
+拆分,刷怪蛋,spawn_egg,僵尸马刷怪蛋,zombie_horse_spawn_egg
+拆分,刷怪蛋,spawn_egg,僵尸猪人刷怪蛋,zombie_pigman_spawn_egg
+拆分,刷怪蛋,spawn_egg,僵尸村民刷怪蛋,zombie_villager_spawn_egg
+拆分,花盆,flower_pot,花盆,flower_pot
+拆分,花盆,flower_pot,虞美人盆栽 [注 1],potted_poppy
+拆分,花盆,flower_pot,蒲公英盆栽 [注 1],potted_dandelion
+拆分,花盆,flower_pot,橡树树苗盆栽 [注 1],potted_oak_sapling
+拆分,花盆,flower_pot,云杉树苗盆栽 [注 1],potted_spruce_sapling
+拆分,花盆,flower_pot,白桦树苗盆栽 [注 1],potted_birch_sapling
+拆分,花盆,flower_pot,丛林树苗盆栽 [注 1],potted_jungle_sapling
+拆分,花盆,flower_pot,红色蘑菇盆栽 [注 1],potted_red_mushroom
+拆分,花盆,flower_pot,棕色蘑菇盆栽 [注 1],potted_brown_mushroom
+拆分,花盆,flower_pot,仙人掌盆栽 [注 1],potted_cactus
+拆分,花盆,flower_pot,枯萎的灌木盆栽 [注 1],potted_dead_bush
+拆分,花盆,flower_pot,蕨盆栽 [注 1],potted_fern
+拆分,花盆,flower_pot,金合欢树苗盆栽 [注 1],potted_acacia_sapling
+拆分,花盆,flower_pot,深色橡树树苗盆栽 [注 1],potted_dark_oak_sapling
+拆分,花盆,flower_pot,兰花盆栽 [注 1],potted_blue_orchid
+拆分,花盆,flower_pot,绒球葱盆栽 [注 1],potted_allium
+拆分,花盆,flower_pot,蓝花美耳草盆栽 [注 1],potted_azure_bluet
+拆分,花盆,flower_pot,红色郁金香盆栽 [注 1],potted_red_tulip
+拆分,花盆,flower_pot,橙色郁金香盆栽 [注 1],potted_orange_tulip
+拆分,花盆,flower_pot,白色郁金香盆栽 [注 1],potted_white_tulip
+拆分,花盆,flower_pot,粉红色郁金香盆栽 [注 1],potted_pink_tulip
+拆分,花盆,flower_pot,滨菊盆栽 [注 1],potted_oxeye_daisy
+拆分,头颅,skull,骷髅头颅,skeleton_skull
+拆分,头颅,skull,墙上的骷髅头颅 [注 1],skeleton_wall_skull
+拆分,头颅,skull,凋灵骷髅头颅,wither_skeleton_skull
+拆分,头颅,skull,墙上的凋灵骷髅头颅 [注 1],wither_skeleton_wall_skull
+拆分,头颅,skull,僵尸的头,zombie_head
+拆分,头颅,skull,墙上的僵尸的头 [注 1],zombie_wall_head
+拆分,头颅,skull,玩家头颅,player_head
+拆分,头颅,skull,墙上的玩家头颅 [注 1],player_wall_head
+拆分,头颅,skull,苦力怕的头,creeper_head
+拆分,头颅,skull,墙上的苦力怕的头 [注 1],creeper_wall_head
+拆分,头颅,skull,龙首,dragon_head
+拆分,头颅,skull,墙上的龙首 [注 1],dragon_wall_head
+重命名,烟花火箭,fireworks,烟花火箭,firework_rocket
+重命名,烟火之星,firework_charge,烟火之星,firework_star
+重命名,下界砖块,netherbrick,下界砖块,nether_brick
+重新分类,旗帜 [注 1],standing_banner,白色旗帜,white_banner
+重新分类,旗帜 [注 1],standing_banner,橙色旗帜,orange_banner
+重新分类,旗帜 [注 1],standing_banner,品红色旗帜,magenta_banner
+重新分类,旗帜 [注 1],standing_banner,淡蓝色旗帜,light_blue_banner
+重新分类,旗帜 [注 1],standing_banner,黄色旗帜,yellow_banner
+重新分类,旗帜 [注 1],standing_banner,黄绿色旗帜,lime_banner
+重新分类,旗帜 [注 1],standing_banner,粉红色旗帜,pink_banner
+重新分类,旗帜 [注 1],standing_banner,灰色旗帜,gray_banner
+重新分类,旗帜,banner,淡灰色旗帜,light_gray_banner
+重新分类,旗帜,banner,青色旗帜,cyan_banner
+重新分类,旗帜,banner,紫色旗帜,purple_banner
+重新分类,旗帜,banner,蓝色旗帜,blue_banner
+重新分类,旗帜,banner,棕色旗帜,brown_banner
+重新分类,旗帜,banner,绿色旗帜,green_banner
+重新分类,旗帜,banner,红色旗帜,red_banner
+重新分类,旗帜,banner,黑色旗帜,black_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的白色旗帜 [注 1],white_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的橙色旗帜 [注 1],orange_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的品红色旗帜 [注 1],magenta_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的淡蓝色旗帜 [注 1],light_blue_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的黄色旗帜 [注 1],yellow_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的黄绿色旗帜 [注 1],lime_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的粉红色旗帜 [注 1],pink_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的灰色旗帜 [注 1],gray_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的淡灰色旗帜 [注 1],light_gray_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的青色旗帜 [注 1],cyan_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的紫色旗帜 [注 1],purple_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的蓝色旗帜 [注 1],blue_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的棕色旗帜 [注 1],brown_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的绿色旗帜 [注 1],green_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的红色旗帜 [注 1],red_wall_banner
+拆分,墙上的旗帜 [注 1],wall_banner,墙上的黑色旗帜 [注 1],black_wall_banner
+重命名,爆裂紫颂果,chorus_fruit_popped,爆裂紫颂果,popped_chorus_fruit
+重命名,音乐唱片,record_13,音乐唱片,music_disc_13
+重命名,音乐唱片,record_cat,音乐唱片,music_disc_cat
+重命名,音乐唱片,record_blocks,音乐唱片,music_disc_blocks
+重命名,音乐唱片,record_chirp,音乐唱片,music_disc_chirp
+重命名,音乐唱片,record_far,音乐唱片,music_disc_far
+重命名,音乐唱片,record_mall,音乐唱片,music_disc_mall
+重命名,音乐唱片,record_mellohi,音乐唱片,music_disc_mellohi
+重命名,音乐唱片,record_stal,音乐唱片,music_disc_stal
+重命名,音乐唱片,record_strad,音乐唱片,music_disc_strad
+重命名,音乐唱片,record_ward,音乐唱片,music_disc_ward
+重命名,音乐唱片,record_11,音乐唱片,music_disc_11
+重命名,音乐唱片,record_wait,音乐唱片,music_disc_wait

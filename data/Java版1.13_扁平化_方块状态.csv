@@ -1,0 +1,76 @@
+﻿Java版1.12.2,Java版1.12.2,Java版1.13,Java版1.13
+石头,variant,石头,—
+泥土,variantsnowy,泥土 砂土,—
+泥土,variantsnowy,灰化土,snowy
+木板,variant,木板,—
+树苗,type,树苗,—
+沙子,variant,沙子,—
+原木,variantaxis=none|x|y|z,橡木原木 云杉原木 白桦原木 丛林原木,axis=x|y|z
+原木,variantaxis=none|x|y|z,橡木 云杉木 白桦木 丛林木
+原木 (2),金合欢原木 深色橡木原木
+原木 (2),variantaxis=none|x|y|z,金合欢木 深色橡木
+树叶,variantdecayable check_decay,树叶,distance=1-7persistent=true|false
+树叶 (2)
+海绵,wet,海绵,—
+砂岩,type,砂岩,—
+音符盒,—,音符盒,note=0-24powered=true|falseinstrument=xylophone|chime|guitar|bell|flute|bass|hat|snare|basedrum|harp
+草丛,type,草丛,—
+移动的活塞,extended,移动的活塞,type=normal|sticky
+羊毛,color,羊毛,—
+蒲公英,type,花,—
+双木台阶,variant,木台阶,type=top|bottom|double
+木台阶,varianthalf
+双石台阶,variantseamless,石台阶,type=top|bottom|double
+石头台阶,varianthalf
+双红砂岩台阶,variantseamless,红砂岩台阶,type=top|bottom|double
+红砂岩台阶,varianthalf
+双紫珀台阶,variant,紫珀台阶,type=top|bottom|double
+紫珀台阶,varianthalf
+TNT,explode,TNT,—
+火把,facing=north|east|south|west|up,墙上的火把,facing=north|south|east|west
+火把,facing=north|east|south|west|up,紫珀台阶,type=top|bottom|double,火把,—
+箱子,—,箱子,type=single|left|right
+熔炉,—,熔炉,lit=true|false
+燃烧的熔炉
+拉杆,facing=north|east|south|west||up_x|down_x|up_z|down_z,拉杆,face=ceiling|wall|floorfacing=north|east|south|west
+红石矿石,—,红石矿石,lit=true|false
+发光的红石矿石
+熄灭的红石火把,facing=north|east|south|west|up,墙上的红石火把,lit=true|falsefacing=north|east|south|west
+红石火把,红石火把,lit=true|false
+石质按钮,facing=north|east|south|west|up|down,石质按钮,face=ceiling|wall|floorfacing=north|east|south|west
+橡木活板门,—,橡木活板门,powered=true|false
+虫蚀方块,variant,虫蚀方块,—
+石砖,variant,石砖,—
+棕色蘑菇方块,variant,棕色蘑菇方块,up=true|falsedown=true|falsenorth=true|falsesouth=true|falseeast=true|falsewest=true|false
+棕色蘑菇方块,variant,红石矿石,lit=true|false,蘑菇梗,up=true|falsedown=true|falsenorth=true|falsesouth=true|falseeast=true|falsewest=true|false
+红色蘑菇方块,variant
+红色蘑菇方块,variant,红色蘑菇方块,up=true|falsedown=true|falsenorth=true|falsesouth=true|falseeast=true|falsewest=true|false
+红石灯,—,红石灯,lit=true|false
+发光的红石灯
+圆石墙,variant,圆石墙,—
+橡木按钮,facing=north|east|south|west|up|down,橡木按钮,face=ceiling|wall|floorfacing=north|east|south|west
+铁砧,damage,铁砧,—
+陷阱箱,—,陷阱箱,type=single|left|right
+阳光探测器,—,阳光探测器,inverted=true|false
+石英块,variant,石英块,—
+石英块,variant,红石灯,lit=true|false,蘑菇梗,up=true|falsedown=true|falsenorth=true|falsesouth=true|falseeast=true|falsewest=true|false,雕纹石英块,—
+石英块,variant,石英柱,axis=x|y|z
+染色陶瓦,color,染色陶瓦,—
+铁活板门,—,铁活板门,powered=true|false
+地毯,color,地毯,—
+大型植物,facingvariant,大型植物,—
+染色玻璃,color,染色玻璃,—
+染色玻璃板,color,染色玻璃板,—
+海晶石,variant,海晶石,—
+红砂岩,variant,红砂岩,—
+混凝土,color,混凝土,—
+混凝土粉末,color,混凝土粉末,—
+未激活的红石中继器,—,红石中继器,powered=true|false
+激活的红石中继器
+南瓜茎,agefacing=north|south|east|west|up,南瓜茎,age
+南瓜茎,agefacing=north|south|east|west|up,红石中继器,powered=true|false,附着的南瓜茎,facing=north|south|east|west
+西瓜茎,agefacing=north|south|east|west|up,西瓜茎,age
+西瓜茎,agefacing=north|south|east|west|up,附着的西瓜茎,facing=north|south|east|west
+花盆,legacy_datacontents,花盆,—
+头颅,facing=north|east|south|west|up|downnodrop,骷髅头颅 凋灵骷髅头颅 僵尸的头 玩家头颅 苦力怕的头 龙首,rotation=0-15
+头颅,facing=north|east|south|west|up|downnodrop,墙上的骷髅头颅 墙上的凋灵骷髅头颅 墙上的僵尸的头 墙上的玩家头颅 墙上的苦力怕的头 墙上的龙首,facing=north|east|south|west
